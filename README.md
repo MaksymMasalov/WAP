@@ -11,10 +11,14 @@ This repository contains an automated test script using Selenium and pytest to n
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 ```sh
 git clone https://github.com/MaksymMasalov/WAP.git
 cd WAP
+```
+
+Install requirements.txt
+```sh
 pip install -r requirements.txt
 ```
 
